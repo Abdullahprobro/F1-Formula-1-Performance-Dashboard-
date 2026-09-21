@@ -38,7 +38,9 @@ Driver Efficiency: Measures points and wins earned relative to constructor packa
 
 Screenshots / Demos 
 show what dashboard look like -![F1 Performance Analytics Dashboard](https://raw.githubusercontent.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/main/Screenshot%20(971).png)
-![F1 Performance Analytics Dashboard] (https://raw.githubusercontent.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/blob/main/Screenshot%20(973).png)
+
+![F1 Performance Analytics Dashboard](https://raw.githubusercontent.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/main/Screenshot%20(973).png)
+
 
 
 
