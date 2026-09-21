@@ -43,6 +43,8 @@ show what dashboard look like -![F1 Performance Analytics Dashboard](https://raw
 
 ![F1 Performance Analytics Dashboard](Screenshot%20(974).png)
 
+![F1 Performance Analytics Dashboard](Screenshot%20(981).png)
+
 
 
 
