@@ -41,6 +41,10 @@ show what dashboard look like -![F1 Performance Analytics Dashboard](https://raw
 
 ![F1 Performance Analytics Dashboard](https://raw.githubusercontent.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/main/Screenshot%20(973).png)
 
+![F1 Performance Analytics Dashboard](Screenshot%20(974).png)
+
+
+
 
 
 
