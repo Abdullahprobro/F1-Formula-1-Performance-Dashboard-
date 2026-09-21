@@ -37,7 +37,7 @@ Constructor Dominance Tracking: Visualizes point distribution gaps across regula
 Driver Efficiency: Measures points and wins earned relative to constructor package strengt
 
 Screenshots / Demos 
-show what dashboard look like - (https://github.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/blob/main/Screenshot%20(971).png)
+show what dashboard look like -![F1 Performance Analytics Dashboard](https://raw.githubusercontent.com/Abdullahprobro/F1-Formula-1-Performance-Dashboard-/main/Screenshot%20(971).png)
 
 
 
